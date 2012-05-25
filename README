@@ -1,0 +1,15 @@
+TicTacToe:
+---------
+
+-> This is a small game code for ARM Processor
+-> Created as a part of an Academic Assignment
+
+
+How To Play:
+-----------
+
+-> This is a two player game
+-> Run the 'tictactoe.s' file using an ARM Simulator
+-> Follow the instructions
+-> Enjoy the game with your friends
+
